@@ -1,8 +1,8 @@
 # \~ soft era \~
 
-🌸 Light pastel syntax theme for cozy, cute coding. 🌱
+🌸 Light pastel syntax theme for cozy, cute coding. on many platforms :)🌱
 
-<!-- ![soft era syntax theme screenshot](screenshot.png) -->
+![soft era syntax theme screenshot](screenshot.png)
 
 \~.\~
 <br>&nbsp;&nbsp;a soft, warm, low contrast theme,
@@ -15,8 +15,13 @@
 
 🌿
 
+## Colors/swatches &amp; style guide
 
-💾 enjoy <3
+🚧 coming soon
+
+---
+
+
 
 ---
 
