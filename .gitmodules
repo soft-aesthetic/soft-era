@@ -1,3 +1,30 @@
 [submodule "soft-era-syntax-atom"]
 	path = soft-era-syntax-atom
 	url = https://github.com/soft-aesthetic/soft-era-syntax-atom.git
+[submodule "soft-era-vs-code"]
+	path = soft-era-vs-code
+	url = https://github.com/soft-aesthetic/soft-era-vs-code.git
+[submodule "soft-era-iterm2"]
+	path = soft-era-iterm2
+	url = https://github.com/soft-aesthetic/soft-era-iterm2.git
+[submodule "soft-era-slack"]
+	path = soft-era-slack
+	url = https://github.com/soft-aesthetic/soft-era-slack.git
+[submodule "soft-era-vim"]
+	path = soft-era-vim
+	url = https://github.com/soft-aesthetic/soft-era-vim.git
+[submodule "soft-era-xcode"]
+	path = soft-era-xcode
+	url = https://github.com/soft-aesthetic/soft-era-xcode.git
+[submodule "soft-era-emacs"]
+	path = soft-era-emacs
+	url = https://github.com/soft-aesthetic/soft-era-emacs.git
+[submodule "soft-era-sublime"]
+	path = soft-era-sublime
+	url = https://github.com/soft-aesthetic/soft-era-sublime.git
+[submodule "soft-era-coda"]
+	path = soft-era-coda
+	url = https://github.com/soft-aesthetic/soft-era-coda.git
+[submodule "soft-era-chrome-devtools"]
+	path = soft-era-chrome-devtools
+	url = https://github.com/soft-aesthetic/soft-era-chrome-devtools.git
