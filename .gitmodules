@@ -25,3 +25,6 @@
 [submodule "soft-era-chrome-devtools"]
 	path = soft-era-chrome-devtools
 	url = https://github.com/soft-aesthetic/soft-era-chrome-devtools.git
+[submodule "soft-era-atom-syntax"]
+	path = soft-era-atom-syntax
+	url = https://github.com/soft-aesthetic/soft-era-atom-syntax.git
