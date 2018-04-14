@@ -1,0 +1,3 @@
+[submodule "soft-era-syntax-atom"]
+	path = soft-era-syntax-atom
+	url = https://github.com/soft-aesthetic/soft-era-syntax-atom.git
