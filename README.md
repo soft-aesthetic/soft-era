@@ -21,10 +21,6 @@
 
 ---
 
-
-
----
-
 Happy to hear any input <3
 
 💖 [@animalphase](https://twitter.com/animalphase) on twitter
