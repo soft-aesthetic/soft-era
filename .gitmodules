@@ -28,3 +28,6 @@
 [submodule "soft-era-atom-syntax"]
 	path = soft-era-atom-syntax
 	url = https://github.com/soft-aesthetic/soft-era-atom-syntax.git
+[submodule "soft-era-terminal-app"]
+	path = soft-era-terminal-app
+	url = https://github.com/pkqk/soft-era-terminal.git
