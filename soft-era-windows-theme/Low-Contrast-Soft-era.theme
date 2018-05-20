@@ -1,0 +1,56 @@
+; Copyright © Microsoft Corp.
+;Theme by BumbleBeaBatQueen
+ 
+[Theme]
+; Windows - IDS_THEME_DISPLAYNAME_AERO
+DisplayName=SOFT THEME
+ThemeId={30A4D7D0-E8D2-467C-BC88-C9A557F57D66}
+ 
+[Control Panel\Desktop]
+PicturePosition=2
+ 
+[VisualStyles]
+Path=%SystemRoot%\Resources\Themes\Aero\AeroLite.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+AutoColorization=0
+ColorizationColor=0X7FFDC9F5
+VisualStyleVersion=10
+HighContrast=0
+
+[MasterThemeSelector]
+MTSM=RJSPBS
+ 
+[Control Panel\Colors]
+ActiveBorder=207 201 244
+ActiveTitle=207 201 244
+ActiveTitleText=195 173 173
+AppWorkspace=253 201 245 //no idea
+Background=247 215 215
+ButtonAlternateFace=255 255 255 // unkown
+ButtonDkShadow=255 255 255 //unknown
+ButtonFace=249 225 245
+ButtonHilight=207 201 244
+ButtonLight=255 255 255 //unknown
+ButtonShadow=236 236 250 //unknown
+ButtonText=195 173 173
+GradientActiveTitle=236 236 250 //unknown
+GradientInactiveTitle=236 236 250 //unknown
+GrayText=240 213 213
+Hilight=207 201 244
+HilightText=162 154 203
+HotTrackingColor=207,201,244 //link color
+InactiveBorder=236 236 250 
+InactiveTitle=207 201 244
+InactiveTitleText=195 173 173
+InfoText=253 201 245 //unknown
+InfoWindow=236 236 250
+Menu=249 245 245
+MenuBar=240 180 210
+MenuHilight=207 201 244
+MenuText=195 173 173
+Scrollbar=162 154 203
+TitleText=236 236 250
+Window=249 245 245
+WindowFrame=249 245 245
+WindowText=195 173 173
