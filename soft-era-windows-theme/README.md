@@ -4,7 +4,7 @@
 
 🌸 Light pastel theme for cozy, cute coding. 🌱
 
-![soft era syntax theme screenshot](screenshot.jpg)
+![soft era syntax theme screenshot](screenshot.png)
 
 \~.\~
 <br>&nbsp;&nbsp;a soft, warm, low contrast theme,
