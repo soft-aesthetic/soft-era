@@ -3,7 +3,7 @@
  
 [Theme]
 ; Windows - IDS_THEME_DISPLAYNAME_AERO
-DisplayName=SOFT THEME
+DisplayName=soft-era
 ThemeId={30A4D7D0-E8D2-467C-BC88-C9A557F57D66}
  
 [Control Panel\Desktop]
