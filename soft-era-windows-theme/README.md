@@ -28,7 +28,7 @@ Simple as that!
 
 -----------------
 
-If you want to to tweak the colors of anyting, you can open up the .theme files with any text editor.  
+If you want to to tweak the colors of anything, you can open up the .theme files with any text editor.  
 Changes will only be reflected after you save and fully reload the theme by selecting another theme and returning to it. 
 
 
