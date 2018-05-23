@@ -2,7 +2,7 @@
 
 ### Apple Keynote Soft Era Theme
 
-🌸 Apple Keynote Theme based on the design of the [Soft Aesthetic Club] website(http://soft-aesthetic.club). 🌱
+🌸 Apple Keynote Theme based on the design of the Soft Aesthetic Club [website](http://soft-aesthetic.club). 🌱
 
 ![soft era keynote screenshot](screenshot.png)
 
