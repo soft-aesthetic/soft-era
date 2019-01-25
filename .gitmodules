@@ -31,3 +31,6 @@
 [submodule "soft-era-terminal-app"]
 	path = soft-era-terminal-app
 	url = https://github.com/pkqk/soft-era-terminal.git
+[submodule "soft-era-discord"]
+	path = soft-era-discord
+	url = git@github.com:soft-aesthetic/soft-era-discord.git
